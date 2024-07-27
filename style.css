@@ -5,11 +5,11 @@ body{
 }
 .header{
     background-image: url('../images/ngnl2.png');
-    background-color: #abcdef;
+    background-color: #123456;
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 550px;
+    height: 300px;
     width: 100%;
 }
 
@@ -94,7 +94,7 @@ p{
 }
 .main{
     background: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F488218415836409473%2F&psig=AOvVaw02v2PE3I8wiBc8cLtgEp61&ust=1722139914351000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPjVqdGtxocDFQAAAAAdAAAAABAEhttps://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F488218415836409473%2F&psig=AOvVaw02v2PE3I8wiBc8cLtgEp61&ust=1722139914351000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPjVqdGtxocDFQAAAAAdAAAAABAE);
-    background-color: #ccffbb
+    background-color: #654321
     margin: 0px;
     padding: 40px;
 }
