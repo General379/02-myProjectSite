@@ -3,6 +3,7 @@ body{
     margin: 0px;
     padding: 0px;
 }
+
 /*Header formatting*/
 .header{
     background-image: url("../images/Propose.jpg");
@@ -10,7 +11,7 @@ body{
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 400px;
+    height: 550px;
     width: 100%;
 }
 .overlay:before {
@@ -18,7 +19,7 @@ body{
     z-index: 1;
     display: block;
     position: absolute;   
-    height: 100%;
+    height: 50%;
     width: 100%;
     background: rgba(0, 0, 0, 0.6);
 }
@@ -34,6 +35,7 @@ body{
     z-index: 2 !important;
     font-weight: bold;
 }
+
 /*Font Formatting*/
 h1{
     color: white;
@@ -75,6 +77,16 @@ p{
     text-align: center;
     width: 60%;
 }
+
+/*Main body formatting*/
+.main{
+    background-color: #ffffff
+    height: 2000px;
+    width: 100%;
+    margin: 0px;
+    padding: 40px;
+}
+
 /*.partner{
     padding: 20px;
     text-align: center;
@@ -91,15 +103,6 @@ p{
 .aa-logo{
     padding-left: 6px;
 }
-*/
-.main{
-    background-color: #ffffff
-    height: 1000px;
-    width: 100%;
-    margin: 0px;
-    padding: 40px;
-}
-/*
 .value-props{
     margin: 40px auto;
     width: 60%;
