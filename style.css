@@ -93,8 +93,9 @@ p{
 }
 */
 .main{
-    background: url("../images/NGNL 2.png");
-    background-color: #ffea00
+    background-color: #ffffff
+    height: 1000px;
+    width: 100%;
     margin: 0px;
     padding: 40px;
 }
