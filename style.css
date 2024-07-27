@@ -1,8 +1,9 @@
 body{
     background-color: #FFFFFF;
     margin: 0px;
-    padding:0px;
+    padding: 0px;
 }
+/*Header formatting*/
 .header{
     background-image: url("../images/Propose.jpg");
     background-color: #aaff00;
@@ -12,7 +13,6 @@ body{
     height: 400px;
     width: 100%;
 }
-
 .overlay:before {
     content: " ";
     z-index: 1;
@@ -25,7 +25,6 @@ body{
 .overlay * {
     position: relative; /* Makes elements display above overlay. */
 }
-
 #header-text{
     margin: 0 auto;
     position: relative;
@@ -35,7 +34,7 @@ body{
     z-index: 2 !important;
     font-weight: bold;
 }
-
+/*Font Formatting*/
 h1{
     color: white;
     font-family: 'Quicksand', sans-serif;
@@ -52,7 +51,7 @@ h2{
     font-weight: 100;
 }
 h3{
-    color: #ffffff;
+    color: #000000;
     font-family: 'Quicksand', sans-serif;
     font-size: 28px;
     font-weight: 400;
@@ -61,7 +60,7 @@ h3{
     text-align: center;
 }
 h4{
-    color: #cccccc;
+    color: #0099ff;
     font-family: 'Quicksand',sans-serif;
     font-size: 16px;
     font-weight: 300;
@@ -88,17 +87,18 @@ p{
 .partner img{
     position: relative;
     top: 6px;
-}*/
+}
 .aa-logo{
     padding-left: 6px;
 }
+*/
 .main{
     background: url("../images/NGNL 2.png");
     background-color: #ffea00
     margin: 0px;
     padding: 40px;
 }
-
+/*
 .value-props{
     margin: 40px auto;
     width: 60%;
@@ -123,3 +123,4 @@ p{
     text-align: left;
     width: 60%;
 }
+*/
