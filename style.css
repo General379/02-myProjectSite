@@ -4,8 +4,8 @@ body{
     padding:0px;
 }
 .header{
-    background-image: url(NGNL 2.png);
-    background-color: #cccccc;
+    background-image: url("./NGNL 2.png");
+    background-color: #abcdef;
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
