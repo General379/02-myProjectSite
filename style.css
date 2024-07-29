@@ -1,9 +1,11 @@
 /*Page formatting*/
 body{
-    background-color: #000000;
+    background-color: #ffffff;
     margin: 0px;
     padding: 0px;
 }
+
+
 
 /*Header formatting*/
 .header{
@@ -38,6 +40,20 @@ body{
     font-weight: bold;
 }
 
+
+
+/*Main body formatting*/
+.main{
+    background-image: url(./images/"NGNL 2.png");
+    background-color: #ddffff;
+    height: 500px;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
 /*Font Formatting*/
 h1{
     color: white;
@@ -55,7 +71,7 @@ h2{
     font-weight: 100;
 }
 h3{
-    color: #000000;
+    color: #aa00ff;
     font-family: 'Quicksand', sans-serif;
     font-size: 28px;
     font-weight: 400;
@@ -64,13 +80,13 @@ h3{
     text-align: center;
 }
 h4{
-    color: #ffffff;
+    color: #aabbcc;
     font-family: 'Quicksand',sans-serif;
     font-size: 16px;
     font-weight: 300;
 }
 p{
-    color: white;
+    color: black;
     font-family: 'Open Sans',sans-serif;
     font-size: 16px;
     font-weight: 100;
@@ -79,55 +95,3 @@ p{
     text-align: center;
     width: 60%;
 }
-
-/*Main body formatting*/
-.main{
-    background-image: url(./images/'NGNL 2'.png);
-    background-color: #aaffff;
-    height: 500px;
-    width: 100%;
-    margin: 0px;
-    padding: 0px;
-}
-
-/*.partner{
-    padding: 20px;
-    text-align: center;
-    margin: auto;
-    border-bottom: 1px solid #eeeeee;
-    position: relative;
-    background-color: white;
-    z-index: 3;
-}
-.partner img{
-    position: relative;
-    top: 6px;
-}
-.aa-logo{
-    padding-left: 6px;
-}
-.value-props{
-    margin: 40px auto;
-    width: 60%;
-}
-.prop{
-    border: 1px solid #ffffff;
-    padding: 40px 0px;
-    margin: 5px 0px;
-    text-align: center;
-}
-.prop h2{
-    font-family: 'Quicksand',sans-serif;
-    font-size: 24px;
-}
-.prop li{
-    color: white;
-    font-family: 'Open Sans',sans-serif;
-    font-size: 16px;
-    font-weight: 100;
-    line-height: 24px;
-    margin: 0 auto;
-    text-align: left;
-    width: 60%;
-}
-*/
