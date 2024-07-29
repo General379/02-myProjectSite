@@ -7,7 +7,7 @@ body{
 
 /*Header formatting*/
 .header{
-    background-image: url('Propose.jpg');
+    background-image: url('./images/Propose.jpg');
     background-color: #aaff00;
     background-position: center center;
     background-repeat: no-repeat;
