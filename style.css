@@ -11,7 +11,7 @@ body{
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 550px;
+    height: 15%;
     width: 100%;
 }
 .overlay:before {
@@ -19,7 +19,7 @@ body{
     z-index: 1;
     display: block;
     position: absolute;   
-    height: 50%;
+    height: 15%;
     width: 100%;
     background: rgba(0, 0, 0, 0.6);
 }
@@ -46,14 +46,14 @@ h1{
     margin: 0px;
 }
 h2{
-    color: #ffffff;
+    color: #ff00aa;
     font-family: 'Open Sans',sans-serif;
     text-align: center;
     font-size: 28px;
     font-weight: 100;
 }
 h3{
-    color: #ffffff;
+    color: #000000;
     font-family: 'Quicksand', sans-serif;
     font-size: 28px;
     font-weight: 400;
@@ -80,7 +80,7 @@ p{
 
 /*Main body formatting*/
 .main{
-    background-color: #ffffff
+    background-color: #ffffaa
     height: 2000px;
     width: 100%;
     margin: 0px;
