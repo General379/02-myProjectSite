@@ -7,7 +7,7 @@ body{
 
 /*Header formatting*/
 .header{
-    background-image: url('./images/Propose.jpg');
+    background-image: url(./images/Propose.jpg);
     background-color: #aaff00;
     background-position: center center;
     background-repeat: no-repeat;
@@ -81,7 +81,8 @@ p{
 
 /*Main body formatting*/
 .main{
-    background-color: #aaffff
+    background-image: url(./images/NGNL 2.png);
+    background-color: #aaffff;
     height: 2000px;
     width: 100%;
     margin: 0px;
