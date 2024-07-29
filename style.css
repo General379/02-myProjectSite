@@ -12,7 +12,7 @@ body{
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 50%;
+    height: 550px;
     width: 100%;
 }
 /*overlay with light grey*/
@@ -82,12 +82,12 @@ p{
 
 /*Main body formatting*/
 .main{
-    background-image: url(./images/'NGNL 2.png');
+    background-image: url(./images/'NGNL 2'.png);
     background-color: #aaffff;
     height: 500px;
     width: 100%;
     margin: 0px;
-    padding: 40px;
+    padding: 0px;
 }
 
 /*.partner{
