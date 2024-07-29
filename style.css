@@ -44,8 +44,7 @@ body{
 
 /*Main body formatting*/
 .main{
-    background-image: url(./images/"NGNL 2.png");
-    background-color: #ddffff;
+    background-color: #00008b;
     height: 500px;
     width: 100%;
     margin: 0px;
