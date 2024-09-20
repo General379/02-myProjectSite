@@ -63,14 +63,14 @@ h1{
     margin: 0px;
 }
 h2{
-    color: #ff00aa;
+    color: pink;
     font-family: 'Open Sans',sans-serif;
     text-align: center;
     font-size: 28px;
     font-weight: 100;
 }
 h3{
-    color: #aa00ff;
+    color: #ffffff;
     font-family: 'Quicksand', sans-serif;
     font-size: 28px;
     font-weight: 400;
@@ -79,13 +79,13 @@ h3{
     text-align: center;
 }
 h4{
-    color: #aabbcc;
+    color: orange;
     font-family: 'Quicksand',sans-serif;
     font-size: 16px;
     font-weight: 300;
 }
 p{
-    color: black;
+    color: aqua;
     font-family: 'Open Sans',sans-serif;
     font-size: 16px;
     font-weight: 100;
