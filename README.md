@@ -1,2 +1,2 @@
-# myProjectSite
-Visit my site at https://general379.github.io/02-myProjectSite/
+# Testing GitHub Pages
+Visit my site at https://boonleongtan.github.io/myTestWebsite/
