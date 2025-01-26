@@ -1,3 +1,4 @@
+// generate a random color code between #000000 to #FFFFFF
 function getRandomColor(){
   let letters = '0123456789ABCDEF';
   let color = '#';
@@ -6,6 +7,8 @@ function getRandomColor(){
   }
   return color;
 }
+
+// change document body background color
 function changeColor(){
   let newColor = getRandomColor();
   document.body.style.backgroundColor = newColor;
