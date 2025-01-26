@@ -8,8 +8,8 @@ function getRandomColor(){
   return color;
 }
 
-// change document body background color
+// change background color of selected element
 function changeColor(){
   let newColor = getRandomColor();
-  document.body.style.backgroundColor = newColor;
+  document.querySelector(".main").style.backgroundColor = newColor;
 }
