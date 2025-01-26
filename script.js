@@ -11,5 +11,5 @@ function getRandomColor(){
 // change background color of selected element
 function changeColor(){
   let newColor = getRandomColor();
-  document.querySelector("h1").style.backgroundColor = newColor;
+  document.querySelector(".main").style.backgroundColor = newColor;
 }
